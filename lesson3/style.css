@@ -2,6 +2,16 @@ body {
     font-family: sans-serif;
 }
 
+
+/*стилизация верхнего меню*/
+
+.top-menu-list {
+    list-style-type: none;
+}
+
+
+/*стилизация контента*/
+
 .text {
     font-size: 16px;
     line-height: 26px;
@@ -29,6 +39,7 @@ body {
     line-height: 30px;
     color: #1F3F68;
 }
+
 .input-text {
     border: 1px solid #356EAD;
     box-sizing: border-box;
@@ -42,8 +53,8 @@ body {
     border-radius: 10px;
     font-weight: 500;
     font-size: 16px;
-    line-height: 26px; 
-    text-align: center; 
-    color: #FFFFFF; 
+    line-height: 26px;
+    text-align: center;
+    color: #FFFFFF;
     text-transform: uppercase;
 }
