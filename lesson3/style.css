@@ -12,15 +12,19 @@ body {
 
 /*стилизация контента*/
 
+.text,
+.top-heading,
+.heading-mini {
+    color: #1F3F68;
+}
+
 .text {
     font-size: 16px;
     line-height: 26px;
-    color: #1F3F68;
 }
 
 .top-heading {
     font-size: 64px;
-    color: #1F3F68;
 }
 
 .heading-maxi {
@@ -37,7 +41,6 @@ body {
 .heading-mini {
     font-size: 20px;
     line-height: 30px;
-    color: #1F3F68;
 }
 
 .input-text {
